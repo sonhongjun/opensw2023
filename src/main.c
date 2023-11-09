@@ -1,7 +1,8 @@
-include "funcs.h"
+#include "funcs.h"
 
-void main() {
+int main() {
     foo();
-
+    goo();
+    
     return 0;
 }
