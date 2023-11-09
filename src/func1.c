@@ -2,5 +2,5 @@
 
 void foo()
 {
-    printf("hello foo\n");
+    printf("hello foo %d\n", m);
 }
